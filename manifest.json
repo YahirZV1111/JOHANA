@@ -1,12 +1,11 @@
 {
-  "name": "Mi App PWA",
-  "short_name": "AppPWA",
+  "name": "Mi App",
+  "short_name": "App",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#0d6efd",
-  "description": "Una aplicación PWA de ejemplo lista para GitHub Pages.",
   "icons": [
     {
       "src": "icons/icon-192.png",
